@@ -20,6 +20,10 @@ a {
   cursor: pointer;
 }
 
+a:hover {
+  color: azure;
+}
+
 .recipe-list {
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
@@ -31,6 +35,3 @@ a {
   font-size: 1.5rem;
 }
 
-a:hover {
-  color: azure;
-}
