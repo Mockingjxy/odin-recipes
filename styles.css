@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #e6d0bf;
+}
+
+.home-heading {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  text-align: center;
+  color: #474545;
+}
