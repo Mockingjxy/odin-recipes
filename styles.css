@@ -11,4 +11,26 @@ body {
   font-size: 3rem;
   text-align: center;
   color: #474545;
+  margin-bottom: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(131, 131, 131);
+  cursor: pointer;
+}
+
+.recipe-list {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+.recipes {
+  list-style: none;
+  margin-top: 90px;
+  font-size: 1.5rem;
+}
+
+a:hover {
+  color: azure;
 }
